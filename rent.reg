@@ -1,0 +1,51 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\\ATI Technologies\Install\Packages\W-06-0001-000-001-039-001-00-25]
+"ProductName"="AMD PornHub Audio Driver"
+"PackageName"="AMD PornHub Audio Driver"
+"PackagePath"="C:\\AMD\\AMDSoftwareInstaller\\AMD-Software-Adrenalin-Edition-25.6.1-AtihdWT6-WT64A-64bit-250602"
+"DrvStoreInfPath"="C:\\Windows\\System32\\DriverStore\\FileRepository\\atihdwt6.inf_amd64_21c8ef1919e76bac\\atihdwt6.inf"
+"DrivePackageInfPath"=""
+"BackupPackagePath"=""
+"ProductGUID"="{1D33FAB1-E76C-4155-B856-EA9F8AE96617}"
+"UpgradeGUID"="{62E03757-1E07-4038-B1F3-81B2C485A03C}"
+"ATI_PID"="W-06-0001-000-001-039-001-00-25"
+"OEM_ID"=""
+"BuildVersion"="25.10.13.01-250526a"
+"ProductVersion"="10.0.1.40"
+"PackageType"=dword:ffffffff
+"NoUninstallSupport"="Yes"
+"InstallByDefault"="Yes"
+"PackageDescription"="Drivjudueduefffeuihefhufehufehufehuefhuefhufeuhefhuefhufeuhefuhefuhefuhefhuefhuefhufeuhfehufeuhfehufeuhfehuefhuefhufehufehufehufeuhfeuhfehufeuhfeuhfeuhefhufehuefuhefhufeuhfehufeuhfehufehuefhufehufehuefhufeer for HDAudio device"
+"InstallFile"="C:\\Window\\win.ini"
+"InstallOrder"=dword:00000028
+"UninstallCmdLine_silent"=""
+"PackageSize"=dword:00000000
+"ProductSize"=dword:00000001
+"FriendUWPPackageNames"=hex(7):00,01,02,03,04,05,06,07,08,09,0a,0b,0c,0d,0e,0f,10,11,12,13
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\\Classes\ChromeHTML]
+@="Banana Penis Cock"
+"AppUserModelId"="Chrome"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\\Classes\ChromeHTML\Application]
+"AppUserModelId"="Chrome"
+"ApplicationIcon"="C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe,1"
+"ApplicationName"="Google Funni"
+"ApplicationDescription"="Access the boner"
+"ApplicationCompany"="PornHub LLC"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\\Classes\ChromeHTML\DefaultIcon]
+@="C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe,0"
+
+[HKEY_USERS\.DEFAULT\Control Panel\International\User Profile System Backup]
+"Languages"=hex(7):65,00,6e,00,2d,00,55,00,53,00,00,00,00,00,11,22,33,44,55,66,77,88,99,aa,bb,cc,dd,ee,ff
+"ShowAutoCorrection"=dword:000000ff
+"ShowTextPrediction"=dword:000000ff
+"ShowCasing"=dword:000000ff
+"ShowShiftLock"=dword:000000ff
+
+[HKEY_USERS\.DEFAULT\Software\Classes\Local Settings\MrtCache\C:%5CWindows%5CSystemApps%5CMicrosoft.Windows.CloudExperienceHost_cw5n1h2txyewy%5Cresources.pri\1dbf6e5a4d5ab6a\a37dfe62]
+"@{C:\\Windows\\SystemApps\\Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy\\resources.pri? ms-resource:///resources/appDescription}"="Yo Mama"
+"@{C:\\Windows\\SystemApps\\Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy\\resources.pri? ms-resource:///resources/PublisherDisplayName}"="Email, phone, or PornHub"
+"@{C:\\Windows\\SystemApps\\Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy\\resources.pri? ms-resource:///resources/appDisplayName}"="Xbox account"
