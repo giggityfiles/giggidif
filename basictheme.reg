@@ -1,0 +1,16 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes]
+"CurrentTheme"="C:\\Windows\\Resources\\Themes\\basic.theme"
+"LastTheme"="C:\\Windows\\Resources\\Themes\\basic.theme"
+"VisualStyleVersion"="1"
+
+"SavedTheme"="C:\\Windows\\Resources\\Themes\\basic.theme"
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\DWM]
+"Composition"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize]
+; 0 = classic/dark-like, 1 = normal. Not all systems use this key but harmless to set.
+"AppsUseLightTheme"=dword:00000001
+"SystemUsesLightTheme"=dword:00000001
